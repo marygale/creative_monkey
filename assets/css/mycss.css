@@ -1,0 +1,83 @@
+body{
+   background: url('../images/background.png') no-repeat center center fixed;
+   -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;  
+}
+	
+
+.header_main .navbar-default{
+	background-color:transparent;
+	border-style:none;
+	text-align:center;
+	
+	
+}
+
+
+.header_main a {
+	font-family:arial;
+	font-size:16px;
+	letter-spacing:1px;
+	color:#FFDBBD!important;
+	}
+	
+.header_main a:hover {
+	color:#232842!important;
+	}
+.header_main ul{
+	
+	padding-top:20px;
+	padding-right:20px;
+	}
+
+.logo{
+	margin-top:70px;	
+}
+.logo p{
+margin-top:-30px;
+font-family:arial;
+font-size:19px;
+letter-spacing:1px;
+color:#FFDBBD;
+	
+}
+
+.login_form{
+	margin-top:30px;
+}
+.login button{
+	width:100%;
+	background-color:#232842;
+	border-color:transparent;
+	color: #FF6763;
+	
+	}
+	.login button:hover{
+	width:100%;
+	background-color:#131728;
+	border-color:transparent;
+	color: #E04C4C;
+	
+	}
+input[type="text"],  input[type="password"]{
+	background-color:#FFE8D7;
+	border-radius:6px;
+	color:#232842;
+	
+	}
+	
+	.icon-bar{
+		color: white;
+  		border-color: white;
+  		background-color: white;
+		}
+		
+.signup .btn {
+	background-color:black;
+	}
+
+.text-danger{
+	font-size: 10px;
+}
